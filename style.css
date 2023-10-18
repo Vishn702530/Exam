@@ -1,0 +1,102 @@
+
+
+.navbar-nav a{
+    color: white;
+}
+
+#btn{
+    border-radius: 15px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+#btn:hover{
+    color: orangered;
+    background-color: white;
+}
+.content{
+    background-color: orangered;
+    height: 400px;
+}
+#btn1{
+    border-radius: 15px;
+    background-color:white;
+    color: black;
+    border: none;
+    padding: 10px;
+}
+#btn1:hover{
+    color: white;
+    background-color: black;
+}
+
+.service{
+    height: 500px; 
+}
+.row{
+    width: 100%;
+    height: 200px;
+}
+
+.col{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.one{
+    background-image: url(https://media.istockphoto.com/id/1396466280/photo/home-improvement-construction-tools-on-black-background-with-copy-space-banner.webp?b=1&s=170667a&w=0&k=20&c=zvoSsSEYw0OQvQ8kF8ra1UGaYmVeMkXYpu7uPPvRVsc=);
+}
+.two{
+    background-image: url(https://st2.depositphotos.com/1067336/11361/i/450/depositphotos_113618364-stock-photo-electric-hand-tools-screwdriver-drill.jpg)
+}
+.three{
+    background-image: url(https://media.istockphoto.com/id/1414124810/photo/tools-on-a-table-at-a-workshop.jpg?b=1&s=170667a&w=0&k=20&c=SsWDoORYMWXt_C332BLvO31UCu2Fe5w0jWNdmDE3Oq0=);
+}
+.four{
+    background-image: url(https://media.istockphoto.com/id/1333765701/photo/photo-of-a-mechanic-tools-in-workshop.jpg?s=612x612&w=0&k=20&c=O9mLhUun4vCJQcIUtbBNHddvrgZ3nulmcp77nTVIOA4=);
+}
+
+.five{
+    background-image: url(https://st4.depositphotos.com/13324256/20580/i/450/depositphotos_205804702-stock-photo-top-view-laptop-blank-screen.jpg);
+}
+.six{
+    background-image: url(https://img.freepik.com/free-photo/frame-different-tools-toy-car-table_23-2148096420.jpg?w=2000);
+}
+
+
+
+.download{
+    background-color: black;
+    height: 300px;
+}
+#btn2{
+    border-radius: 10px;
+    background-color:white;
+    color: black;
+    border: none;
+    padding: 10px;
+}
+#btn2:hover{
+    color: white;
+    background-color: black;
+}
+.details{
+    width: 100%;
+    height: 700px;
+
+}
+.inputs{
+    width: 500px;
+    height: 450px;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+#btn3{
+    border-radius: 15px;
+    color: white;
+    padding: 10px;
+}
+#btn3:hover{
+    color: black;
+}
